@@ -9,4 +9,4 @@ client.on('ready', async () => {
 client.on('message', async message => {
   if(message.content === "indonesia") message.reply(":flag_id:")
 })
-client.login("token bot kamu")
+client.login("OTY5MTA1MDcyOTU5MTI3NTUy.GFQL8o.smiUGw0j3m1IqT-qQWB2H1rx_S325Uzlie2f8I")
